@@ -1,0 +1,7 @@
+
+redshift_fashion:
+    dbname: dev
+    host: default-workgroup.982534395280.us-west-2.redshift-serverless.amazonaws.com
+    port: 5439
+    user: admin
+    password: WGBWZdjlop421
