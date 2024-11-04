@@ -49,7 +49,7 @@ s3 = boto3.resource(
     service_name=config.s3_fashion.service_name,
     region_name=config.s3_fashion.region_name,
     aws_access_key_id=config.s3_fashion.aws_access_key_id,
-    aws_secret_access_key=config.s3_fashion.aws_access_key
+    aws_secret_access_key=config.s3_fashion.aws_secret_access_key
 )
 
 # Print out bucket names
