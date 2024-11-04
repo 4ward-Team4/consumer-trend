@@ -5,3 +5,10 @@ redshift_fashion:
     port: 5439
     user: admin
     password: WGBWZdjlop421
+
+s3_fashion:
+    service_name: s3
+    region_name: us-west-2
+    aws_access_key_id: AKIA6JQ45CWIHP6F24HN
+    aws_secret_access_key: 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
+
